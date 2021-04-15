@@ -492,10 +492,6 @@ input[type=radio]:checked + label {
 }
 .reviews {
     margin: 80px 0 59px 0;
-    &-wrapper{
-        // margin-left: -94px;
-        // margin-right: -94px;
-    }
     &-title {
         font-size: 32px;
         font-weight: bold;
@@ -531,9 +527,6 @@ input[type=radio]:checked + label {
             border-radius: 8px;
             margin-right: 34px;
             padding: 32px;
-            // &:nth-child(3n) {
-            //     margin-right: 0;
-            // }
             .review-title {
                 margin-left: 72px;
                 margin-bottom: 22px;
